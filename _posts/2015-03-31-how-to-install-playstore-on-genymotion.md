@@ -9,7 +9,7 @@ tags:
 - genymotion
 ---
 
-For first i just to lazy for repeating another usefull tutorial u can found it by googling but i just wanna share my little probs when i trying to install it, well if u guys followed tutorial an another blog post about how to install playstore on genymotion and then u still gotta error when trying to drag and drop somefile like Genymotion-ARM-Translation_v1.1.zip and gapps-version.zip, here we go.
+For first i just too lazy for repeating another usefull tutorial u can found it by googling but i just wanna share my little probs when i trying to install it, well if u guys followed tutorial an another blog post about how to install playstore on genymotion and then u still gotta error when trying to drag and drop somefile like Genymotion-ARM-Translation_v1.1.zip and gapps-version.zip, here we go.
 
 **required files** :
 
